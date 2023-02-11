@@ -1,6 +1,6 @@
 <div align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://moonbeam.gg/images/mb-logo-white.png">
+		<source media="(prefers-color-scheme: dark)" srcset="https://moonbeam.gg/images/mb-logo.png">
 		<source media="(prefers-color-scheme: light)" srcset="https://moonbeam.gg/images/mb-logo-black.png">
 		<img alt="moonbeam logo" src="https://moonbeam.gg/images/mb-logo-black.png">
 	</picture>
