@@ -14,4 +14,5 @@ Support what we do by playing our games on Roblox!
 * [Slime Survival](https://moonbeam.gg/slimes) - 8.9M+ Visits
 
 ### Social Media
-* https://twitter.com/moonbeamers
+* Follow us on Twitter! [@moonbeamers](https://twitter.com/moonbeamers)
+* Join our [Discord](https://discord.gg/eSCXD84) for announcements and updates!
